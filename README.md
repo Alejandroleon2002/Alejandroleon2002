@@ -110,17 +110,17 @@
 <table align="left">
 <tr border="none">
   <td width="60%" align="center">
-    <img title="🔥 Get streak stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroleon&theme=dark&hide_border=false" />
+    <img title="🔥 Get streak stats" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandroleon2002&theme=dark&hide_border=false" />
   </td>
   <td width="40%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alejandroleon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alejandroleon2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophy">
-    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=alejandroleon&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Alejandroleon2002&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
   </a>
 </div>
 </p>
