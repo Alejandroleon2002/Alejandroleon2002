@@ -47,84 +47,12 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)&nbsp;
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 
-
-<br>
-<div id="proyectos">
-<h2>Algunos proyectos destacados 🚧</h2>
-
-<table align="left">
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/ejemplo1" title="Video del proyecto 1">
-        <img align="center" width=100% src="https://via.placeholder.com/250x150.png?text=Proyecto+1" alt="VIDEO" />
-     </a>
-    </p>
-    <p align="center">
-      <a href="https://youtu.be/ejemplo1" target="blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/alejandroleon/proyecto1" target="blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>       
-  </td>
-
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/ejemplo2" title="Video del proyecto 2">
-        <img align="center" width=100% src="https://via.placeholder.com/250x150.png?text=Proyecto+2" alt="VIDEO" />
-     </a>
-    </p>
-    <p align="center">
-      <a href="https://youtu.be/ejemplo2" target="blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/alejandroleon/proyecto2" target="blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>       
-  </td>
-
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/ejemplo3" title="Video del proyecto 3">
-        <img align="center" width=100% src="https://via.placeholder.com/250x150.png?text=Proyecto+3" alt="VIDEO" />
-     </a>
-    </p>
-    <p align="center">
-      <a href="https://youtu.be/ejemplo3" target="blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/alejandroleon/proyecto3" target="blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>       
-  </td>
-
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/ejemplo4" title="Video del proyecto 4">
-        <img align="center" width=100% src="https://via.placeholder.com/250x150.png?text=Proyecto+4" alt="VIDEO" />
-     </a>
-    </p>
-    <p align="center">
-      <a href="https://youtu.be/ejemplo4" target="blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-      <a href="https://github.com/alejandroleon/proyecto4" target="blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>       
-  </td>
-</tr>
-</table>
-</div>
 
 <br><br><br><br><br><br><br><br>
 
-<h2>Mi GitHub :octocat:</h2>
+<h2>Mi GitHub </h2>
 
 <p align="center">
 <table align="left">
