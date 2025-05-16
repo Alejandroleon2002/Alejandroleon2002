@@ -1,13 +1,14 @@
 <h1 align="center">Hola 👋, soy Alejandro León ✨</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alejandro-le%C3%B3n-7b768a360/" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-le%C3%B3n-7b768a360/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Alejandro León"/>
   </a>
-  <a href="mailto:alex.leonm17.04@gmail.com" target="_blank">
+  <a href="mailto:alex.leonm17.04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo de Alejandro León" />
   </a>
 </p>
+
 
 <br>
 <h2>Sobre mí 😃</h2>
