@@ -34,6 +34,7 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![HSQLDB](https://img.shields.io/badge/HSQLDB-336791?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
 
 
 <h2>Control de versiones y herramientas 🧰</h2>
