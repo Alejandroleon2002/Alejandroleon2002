@@ -50,7 +50,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 <h2>Mi GitHub </h2>
 
