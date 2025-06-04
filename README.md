@@ -2,7 +2,7 @@
 
 <p align="left">
 
-  <a https://www.linkedin.com/in/alejandro-le%C3%B3n-manzanedo-7b768a360/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/alejandro-le%C3%B3n-manzanedo-7b768a360/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Alejandro León"/>
   </a>
   <a href="mailto:alex.leonm17.04@gmail.com">
